@@ -1,0 +1,13 @@
+Package                      Version
+---------------------------- ---------
+fastapi                      0.95.1
+keras                        2.12.0
+nltk                         3.8.1
+numpy                        1.23.5
+pip                          22.3.1
+pydantic                     1.10.7
+regex                        2023.5.5
+setuptools                   65.5.1
+tensorflow                   2.12.0
+uvicorn                      0.22.0
+wheel                        0.38.4
